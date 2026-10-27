@@ -1,0 +1,6 @@
+{
+  "name": "Affinitree - Inventário de Temperamento e Caráter (TCI)",
+  "description": "Plataforma interativa para avaliação TCI, gráficos de radar, análise de perfis de personalidade e compatibilidade baseada no modelo psicobiológico de Cloninger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
